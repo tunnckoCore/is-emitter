@@ -1,6 +1,6 @@
 {
   "name": "is-emitter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check that given value is EventEmitter, not so strict as `is-node-emitter`.",
   "repository": "tunnckoCore/is-emitter",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
